@@ -1,0 +1,5 @@
+Variables: son como cajas donde podemos guardar información para luego acceder a ellas cuando las necesitamos.
+Strings: las son una información en forma de texto
+Funciones (argumentos, return): son una porción de código que realiza tarea/s específica/s. Necesitamos llamarla y pasarle cierta información de entrada (argumentos), y luego de procesar esa información la función devolverá un resultado (return)
+Declaraciones if:  los if son condiciones a cumplirse para que el código realicé determinada acción. Si pasa esto entonces hace esto; si pasa lo otro hace esto otro. 
+Valores booleanos (true, false): hacen referencia a la lógica binaria. True y false son las dos respuestas posibles a la resolución de un procedimiento.
