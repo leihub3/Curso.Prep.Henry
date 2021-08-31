@@ -1,0 +1,4 @@
+`for`: es pedirle a la computadora que realice una tarea la cantidad de veces que deseemos. Para ello tenemos que indicarle 3 parámetros: una variable que será nuestro punto de inicio; el punto de quiebre o la condición a cumplirse para que se finalice de la operación; y por último parámetro para incrementar la variable inicial. 
+`&&`: es un operador lógico que significa "y", y añade una condición a cumplirse para que la realización de determinada acción se lleve a cabo. 
+`||`: operador lógico que significa "o" y hace referencia a que para que una acción se ejecute se debe cumplir al menos una de las condiciones indicadas.
+`!`: operador lógico que simboliza la negación de una condición. Es decir que para que determinado código se ejecute la condición expresada NO debe cumplirse. 
