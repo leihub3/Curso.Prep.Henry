@@ -1,0 +1,5 @@
+Un array es una manera de almacenar muchos valores dentro de una sola variable. Si en una variable podemos guardar "un libro", en un array podemos almacenar "una coleccion" de libros.
+
+Para acceder a cada elemento del un array necesitas usar su índice. Los arrays, o arreglos, tienen indexación base 0, lo que significa que el primer elemento de un arreglo se encuentra en array[0], y el último elemento de un arreglo de tamaño n se encuentra en array[n-1].
+
+Para determinar el tamaño de un array podemos escribir array.length
