@@ -1,0 +1,5 @@
+* Objetos: son colecciones de propiedades. Sus índices son cadenas de texto y no numeros. En los objetos se pueden almacenar cualquier tipo de datos, arrays e incluso otros objetos.
+* Propiedades: las propiedades en los objetos son variables. Están compuestas por el par "clave/valor (key/value)"
+* Métodos: dentro de los objetos, los métodos son funciones
+* Bucle `for…in`: es el mecanismo para recorrer un objeto. Como los objetos NO contienen índices numéricos, el bucle FOR no funciona. En su lugar se utiliza el "for...in"
+* Notación de puntos vs notación de corchetes. Con la notación de puntos nombramos al objeto, agregamos un punto, y nombramos la propiedad que deseamos llamar; para realizar lo mismo con la notación de corchetes debemos usar una cadena de texto o una variable que apunte a ella.
