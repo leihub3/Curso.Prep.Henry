@@ -1,0 +1,2 @@
+* `prototype`: es un mecanismo através del cual los objetos en Javascript heredan propiedades y métodos de su objeto padre, y así sucesivamente subiendoen la cadena de prototipos, la cual tenmina en el objeto Object.
+* _Constructors_ (de Clases): dentro de una clase, el constructor es un método especial que se utiliza para crear o iniciar una instacia de la clase a la que pertenece. Se utiliza la palabra clave "constructor" para crear este método.
