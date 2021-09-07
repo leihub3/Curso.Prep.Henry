@@ -1,0 +1,37 @@
+body{
+    background: url("https://d1jnk9nvznvex1.cloudfront.net/wp-content/uploads/2017/05/carmin-parrilla-urbana-768x576.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  .flex-container > div {
+    background-color: rgba(241, 219, 208, 0.7);
+    width: 30% !important;
+    height: auto !important; /*Agregué esta propiedad para que las fotos entren en el div*/
+    margin: 10px;
+    text-align: center;
+    position: relative;
+  }
+
+h1{
+    color:blueviolet;
+}
+
+img{
+    width: 400px;
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 400px;
+    background-color: rgba(189, 104, 126, 0.7);
+    padding: 50px;
+    border: 5px dashed lightseagreen;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
